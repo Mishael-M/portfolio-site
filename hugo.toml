@@ -1,0 +1,36 @@
+baseURL = 'http://gohugo.io/'
+languageCode = 'en-us'
+theme = "nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "about"
+
+[params]
+author = "Mishael Magsanoc"
+user = "mishaelm"
+hostname = "mishaelmagsanoc.com"
+
+readingTime = true  # Show reading time on post page
+published = true  # Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/Mishael-M"
+
+[[params.social]]
+key = 1
+name = "linkedin"
+url = "https://www.linkedin.com/in/mishael-m/"
+
+[[params.social]]
+key = 2
+name = "email"
+url = "mailto:mishaelm@mishaelmagsanoc.com"
