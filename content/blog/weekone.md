@@ -1,7 +1,7 @@
 ---
 title: 'Week One'
 date: 2023-08-21T13:17:20-04:00
-draft: true
+draft: false
 ---
 
 ## Day One
