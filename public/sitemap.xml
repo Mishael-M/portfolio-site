@@ -3,15 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://gohugo.io/</loc>
-    <lastmod>2023-08-21T13:17:20-04:00</lastmod>
-  </url><url>
-    <loc>http://gohugo.io/blog/</loc>
-    <lastmod>2023-08-21T13:17:20-04:00</lastmod>
-  </url><url>
-    <loc>http://gohugo.io/blog/weekone/</loc>
-    <lastmod>2023-08-21T13:17:20-04:00</lastmod>
+    <lastmod>2023-08-21T13:05:25-04:00</lastmod>
   </url><url>
     <loc>http://gohugo.io/blog/first-post-about/</loc>
+    <lastmod>2023-08-21T13:05:25-04:00</lastmod>
+  </url><url>
+    <loc>http://gohugo.io/blog/</loc>
     <lastmod>2023-08-21T13:05:25-04:00</lastmod>
   </url><url>
     <loc>http://gohugo.io/about/</loc>
@@ -22,5 +19,7 @@
     <loc>http://gohugo.io/tags/index/</loc>
   </url><url>
     <loc>http://gohugo.io/tags/</loc>
+  </url><url>
+    <loc>http://gohugo.io/blog/weekone/</loc>
   </url>
 </urlset>

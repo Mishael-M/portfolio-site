@@ -1,6 +1,6 @@
 ---
 title: 'Week One'
-date: 2023-08-21T13:17:20-04:00
+date: 2023-08-23git config --global init.defaultBranch mainT13:17:20-04:00
 draft: false
 ---
 
@@ -22,3 +22,14 @@ Things I did include:
   - Installing Google Chrome and VSCode as the primary web browser and text editor
   - Learning Command Line Basics for the Terminal
     - I spent most of the day reviewing Linux commands as I'm used to Windows
+
+## Day Three
+
+I am almost done the [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations) course.
+
+Things I did include:
+
+- Set up Git in my Linux workspace
+  - Reviewed git basics
+- Completing the [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) section
+  - My version of the final project [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
