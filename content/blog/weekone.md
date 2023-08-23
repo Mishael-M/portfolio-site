@@ -33,3 +33,4 @@ Things I did include:
   - Reviewed git basics
 - Completing the [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations) section
   - My version of the final project [Recipes](https://www.theodinproject.com/lessons/foundations-recipes)
+- I also setup changing the domain of my portfolio site to mishaelmagsanoc.com
