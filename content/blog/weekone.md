@@ -1,6 +1,6 @@
 ---
 title: 'Week One'
-date: 2023-08-23git config --global init.defaultBranch mainT13:17:20-04:00
+date: 2023-08-23T13:17:20-04:00
 draft: false
 ---
 
