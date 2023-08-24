@@ -6,7 +6,29 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Aug 2023 13:05:25 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 13:17:20 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://gohugo.io/about/</link>
+      <pubDate>Thu, 24 Aug 2023 09:47:15 -0400</pubDate>
+      
+      <guid>http://gohugo.io/about/</guid>
+      <description>Hello, my name is Mishael Magsanoc and I am a Full Stack Developer.
+I specialize in backend development using Java Spring Boot &amp;amp; Express.js and have experience in creating Single Page Applications using React.
+I am currently practicing my Front-End Developer fundamentals of HTML5, CSS, and JS using The Odin Project</description>
+    </item>
+    
+    <item>
+      <title>Week One</title>
+      <link>http://gohugo.io/blog/weekone/</link>
+      <pubDate>Wed, 23 Aug 2023 13:17:20 -0400</pubDate>
+      
+      <guid>http://gohugo.io/blog/weekone/</guid>
+      <description>Day One I have created this portfolio website and blog to showcase my progress to improve my Front End Developer fundamentals.
+I spent most of the day configuring this website to host and deploy it on Github Pages.
+I have also started the Foundations course from The Odin Project. Although, most of it is Review from previous experience, I felt that it is a good idea start from scratch as it is a good refresher as I may have forgotten some things I learned in the past.</description>
+    </item>
+    
     <item>
       <title>First Post</title>
       <link>http://gohugo.io/blog/first-post-about/</link>
@@ -15,28 +37,6 @@
       <guid>http://gohugo.io/blog/first-post-about/</guid>
       <description>Hello everyone, this is my first post on my personal blog.
 I am currently trying to practice my Front End Developer fundamentals using The Odin Project as I have previously learned Full Stack Development using FullStackOpen. Although, I have learned to create Full Stack applications using Javascript, I believe I am severely lacking in the fundamentals of HTML5, CSS, and JS due to the fact that FullStackOpen uses React at the very start.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>http://gohugo.io/about/</link>
-      <pubDate>Mon, 21 Aug 2023 12:47:15 -0400</pubDate>
-      
-      <guid>http://gohugo.io/about/</guid>
-      <description>Hello, my name is Mishael Magsanoc. I am a Full Stack Developer.
-I specialize in backend development using Java Spring Boot &amp;amp; Express.js and have experience in creating Single Page Applications using React.
-I am currently practicing my Front-End Developer fundamentals of HTML5, CSS, and JS using The Odin Project</description>
-    </item>
-    
-    <item>
-      <title>Week One</title>
-      <link>http://gohugo.io/blog/weekone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://gohugo.io/blog/weekone/</guid>
-      <description>Day One I have created this portfolio website and blog to showcase my progress to improve my Front End Developer fundamentals.
-I spent most of the day configuring this website to host and deploy it on Github Pages.
-I have also started the Foundations course from The Odin Project. Although, most of it is Review from previous experience, I felt that it is a good idea start from scratch as it is a good refresher as I may have forgotten some things I learned in the past.</description>
     </item>
     
   </channel>
