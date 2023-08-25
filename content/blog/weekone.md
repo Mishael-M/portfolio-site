@@ -40,3 +40,7 @@ Things I did include:
 I spent the whole day trying to complete the [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations) section of The Odin Project.
 
 I am currently on The Box Model about 1/3 of the way done.
+
+## Day Five
+
+I was completely sidetracked today as I had errands to run but I finally finished The Box Model. Next Week, I promise that I will give my entire focus on The Odin Project.
