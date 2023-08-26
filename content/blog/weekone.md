@@ -1,6 +1,6 @@
 ---
 title: 'Week One'
-date: 2023-08-25T13:17:20-04:00
+date: 2023-08-26T13:17:20-04:00
 draft: false
 ---
 
@@ -44,3 +44,7 @@ I am currently on The Box Model about 1/3 of the way done.
 ## Day Five
 
 I was completely sidetracked today as I had errands to run but I finally finished The Box Model. Next Week, I promise that I will give my entire focus on The Odin Project.
+
+## Day Six
+
+It's a Saturday and I decided to be productive and continue my studies. I started the [CSS Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations) section and I have almost completed it. The only thing left is to complete the [Project: Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page) exercise. As of now, I spent most of the day with theory and will most likely start it either tomorrow on Sunday, or Monday.
