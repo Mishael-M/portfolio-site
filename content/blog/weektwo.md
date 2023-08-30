@@ -29,5 +29,14 @@ Things that I have done for today are:
   - My solution can be found [here](https://github.com/Mishael-M/rock-paper-scissors-ui) and the live website [here](https://mishael-m.github.io/rock-paper-scissors-ui/).
 - I reviewed the Clean Code topic to ensure that I have the right mindset going into programming
 - I installed Node.js and zipped through Fundamentals Part 4, which against was mostly review as these JavaScript topics are only introductory.
-- I am now currently completing the [DOM Manipulation and Events section](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events) which is a topic I last touched about 3 years ago
+- I am now currently completing the [DOM Manipulation and Events topic](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events) which is a topic I last touched about 3 years ago
   - Since I do have experience in React, these concepts are abstracted away when using a JavaScript framework
+
+## Day Three
+
+I am almost done the [JavaScript Basics Section](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics).
+
+- I completed the DOM Manipulation and Events section
+- I have completed the [Fundamentals Part 5 topic](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
+  - This was mostly review as I had previous knowledge with objects and arrays for JavaScript.
+- My goal tomorrow is to finish the [Calculator Project](https://www.theodinproject.com/lessons/foundations-calculator) as well as to start the [Full Stack JavaScript path](https://www.theodinproject.com/paths/full-stack-javascript).
