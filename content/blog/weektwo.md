@@ -37,6 +37,8 @@ Things that I have done for today are:
 I am almost done the [JavaScript Basics Section](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics).
 
 - I completed the DOM Manipulation and Events section
+- I completed the [Project: Etch-a-Sketch](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) in the past.
+  - My solution can be found [here](https://github.com/Mishael-M/etch-a-sketch) and the deployed website can be found [here](https://mishael-m.github.io/etch-a-sketch/).
 - I have completed the [Fundamentals Part 5 topic](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
   - This was mostly review as I had previous knowledge with objects and arrays for JavaScript.
 - My goal tomorrow is to finish the [Calculator Project](https://www.theodinproject.com/lessons/foundations-calculator) as well as to start the [Full Stack JavaScript path](https://www.theodinproject.com/paths/full-stack-javascript).
