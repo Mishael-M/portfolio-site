@@ -42,3 +42,10 @@ I am almost done the [JavaScript Basics Section](https://www.theodinproject.com/
 - I have completed the [Fundamentals Part 5 topic](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5)
   - This was mostly review as I had previous knowledge with objects and arrays for JavaScript.
 - My goal tomorrow is to finish the [Calculator Project](https://www.theodinproject.com/lessons/foundations-calculator) as well as to start the [Full Stack JavaScript path](https://www.theodinproject.com/paths/full-stack-javascript).
+
+## Day Four
+
+I got sidetracked today and decided to start the [Google UX Design Certificate](https://grow.google/intl/ALL_ca/certificates/ux-design/#?modal_active=none).
+
+- The reason I am starting this course is because I don't have any practice regarding UX design and I want to apply this knowledge alongside my Front End skills.
+- Overall, I think by doing this course alongside improving my Front End skills, I can start creating much more beautiful user interfaces and a better experience for the users.
