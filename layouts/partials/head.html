@@ -4,9 +4,13 @@
 {{ hugo.Generator }}
 
 <!-- Permalink & RSSlink -->
-<link rel="icon" type="image/jpeg" href="./Mishael Maganoc-logos.jpeg" />
+<link
+  rel="icon"
+  type="image/png"
+  href="https://mishaelmagsanoc.com/Mishael Magsanoc-logos_transparent.png"
+/>
 <link rel="canonical" href="{{ .Permalink }}" />
-{{- with .OutputFormats.Get "RSS" }}
+/> {{- with .OutputFormats.Get "RSS" }}
 <link
   href="{{ .Permalink }}"
   rel="alternate"
