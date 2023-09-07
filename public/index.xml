@@ -6,7 +6,17 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Aug 2023 14:09:36 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 12:13:47 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Weekthree</title>
+      <link>http://gohugo.io/blog/weekthree/</link>
+      <pubDate>Wed, 06 Sep 2023 12:13:47 -0400</pubDate>
+      
+      <guid>http://gohugo.io/blog/weekthree/</guid>
+      <description>Day One I went through a bit of the UX Design course but I was out with family the majority of the day.
+Day Two I spent most of my time finishing Project: Calculator and have finished the basic features. Tomorrow I will focus on finishing the extra credit portion. I am also slowly going through the Google UX Design course, trying to gather as much knowledge I can for future Front End projects.</description>
+    </item>
+    
     <item>
       <title>Weektwo</title>
       <link>http://gohugo.io/blog/weektwo/</link>
