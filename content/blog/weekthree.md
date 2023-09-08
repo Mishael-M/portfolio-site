@@ -16,3 +16,7 @@ I am also slowly going through the Google UX Design course, trying to gather as 
 ## Day Three
 
 I was sidetracked once again and instead opted in to practicing LeetCode style questions alongside the Google UX Design course.
+
+## Day Four
+
+I am now focusing on the Google UX Design course because my free trial just ended for the course just ended. So it is best to get my money's worth by finishing the course in the shortest amount of time.
