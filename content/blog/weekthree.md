@@ -12,3 +12,7 @@ I went through a bit of the UX Design course but I was out with family the major
 
 I spent most of my time finishing [Project: Calculator](https://www.theodinproject.com/lessons/foundations-calculator) and have finished the basic features. Tomorrow I will focus on finishing the extra credit portion.
 I am also slowly going through the Google UX Design course, trying to gather as much knowledge I can for future Front End projects.
+
+## Day Three
+
+I was sidetracked once again and instead opted in to practicing LeetCode style questions alongside the Google UX Design course.
