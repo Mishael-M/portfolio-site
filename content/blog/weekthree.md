@@ -1,5 +1,5 @@
 ---
-title: 'Weekthree'
+title: 'Week Three'
 date: 2023-09-06T12:13:47-04:00
 draft: false
 ---
