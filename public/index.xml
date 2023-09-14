@@ -6,7 +6,17 @@
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 12:13:47 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 13:53:58 -0400</lastBuildDate><atom:link href="http://gohugo.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week Four</title>
+      <link>http://gohugo.io/blog/weekfour/</link>
+      <pubDate>Wed, 13 Sep 2023 13:53:58 -0400</pubDate>
+      
+      <guid>http://gohugo.io/blog/weekfour/</guid>
+      <description>Day One I am now practicing leetcode to help keep my mind fresh on Data Structures and Algorithms. I am using NeetCode and Abdul Bari on YouTube to help teach me the concepts that I can apply to solve these problems. By doing leetcode, I want to ensure that if I do get interviews, I will have some sort of experience in trying to solve the technical problems given.
+I am also steadily going through the Google UX design course.</description>
+    </item>
+    
     <item>
       <title>Week Three</title>
       <link>http://gohugo.io/blog/weekthree/</link>

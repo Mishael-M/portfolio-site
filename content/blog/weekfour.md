@@ -1,7 +1,7 @@
 ---
 title: 'Week Four'
 date: 2023-09-13T13:53:58-04:00
-draft: true
+draft: false
 ---
 
 ## Day One
